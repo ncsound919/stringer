@@ -1,0 +1,17 @@
+build/
+build*/
+build-*.log
+build.log
+build*.log
+vite-dev.log
+
+ui/node_modules/
+ui/dist/
+
+third_party/JUCE/
+.DS_Store
+
+.freebuff/
+*.obj
+*.pdb
+*.log
